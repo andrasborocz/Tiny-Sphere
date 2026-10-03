@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Planet Odyssey - 3D Low-Poly Micro-World",
+  "description": "A cozy 3D low-poly exploration game rendered in crisp 4K fidelity, featuring a spherical mini-planet with an exaggerated curved horizon, cozy cabin, grazing deer, spinning windmill, and an adventurous explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
